@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/DrawMeshInstancedIndirect/Scene1.unity
+    guid: bb3199a8053307b419ae844d63593af0
   m_configObjects: {}
